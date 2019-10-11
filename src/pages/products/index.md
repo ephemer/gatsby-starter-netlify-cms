@@ -1,8 +1,7 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
+templateKey: product-page
+title: Shinjuku
+image: /img/ef02e1d2-5794-4ca7-8a11-ae58f49b87bf.jpeg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
